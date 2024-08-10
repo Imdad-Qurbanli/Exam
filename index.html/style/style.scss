@@ -13,8 +13,8 @@
     height: 500px;
     background-color: #F4ECE0;
     @include mobile {
-            
         width: 452px;
+        height: fit-content;
     }
 }
 .header {
